@@ -75,7 +75,7 @@ section header{
     gap: .8rem;
     padding-block:2rem;
     margin-block: 2rem;
-    border-bottom: 1px solid var(--dark-brown);
+    border-bottom: 1px solid var(--medium-brown);
 }
 
 .block{
