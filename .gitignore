@@ -11,8 +11,8 @@
 ###############################################
 *.xd
 
-./node_module
-./design
+*./node_module
+*./design
 
 # Avoid your project being littered with annoying .DS_Store files!
 .DS_Store
